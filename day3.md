@@ -22,4 +22,5 @@
 - `!number` → Run command from history
   ## Resources
 
-- 📄 Word Notes: [Download]()
+- 📄 Word Notes: [Download](Day 3 linux learning.docx
+)
